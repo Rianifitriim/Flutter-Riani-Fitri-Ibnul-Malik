@@ -9,7 +9,7 @@
 * App store
 * Safari
 * Apple TV
-## 2. 3 Aplikasi yang berjalan di android tetapi tidak bisa di ios
+## 3. 3 Aplikasi yang berjalan di android tetapi tidak bisa di ios
 * Play store
 * Google skymap
 * Google keep
