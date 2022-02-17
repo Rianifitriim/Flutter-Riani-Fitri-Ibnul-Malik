@@ -6,10 +6,10 @@
 	bahasa pemrograman java untuk membuat aplikasi android
      
 ## 2. 3 Aplikasi yang berjalan di ios tetapi tidak bisa di android
-App store
-Safari
-Apple TV
+* App store
+* Safari
+* Apple TV
 ## 3. 3 Aplikasi yang berjalan di android tetapi tidak bisa di ios
-Play store
-Google skymap
-Google keep
+* Play store
+* Google skymap
+* Google keep
