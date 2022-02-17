@@ -15,7 +15,7 @@ Compiler digunakan untuk membaca perintah dari bahasa pemrograman dan dikompilas
 Interpreter digunakan untuk membaca perintah perintah dalam bahasa pemrograman dan langsung menjalankan perintah tersebut
 ## Mobile App
 * IOS
-Aplikasi yang berjalan di sistem ios / perangkat apple
+    +Aplikasi yang berjalan di sistem ios / perangkat apple
 * Android 
-Aplikasi yang berjalan pada perangkat android
+    +Aplikasi yang berjalan pada perangkat android
 
