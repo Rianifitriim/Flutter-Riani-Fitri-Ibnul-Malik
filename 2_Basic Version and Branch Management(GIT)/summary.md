@@ -28,9 +28,15 @@ Pada task ini, membuat jembatan hasil dari pembelajaran proses concurrent yang d
 
 ### 2. Membuat branching, git push, git merge dll
 Berikut hasil dari praktikum ini.
+
 ![contoh git branch](https://user-images.githubusercontent.com/59384629/155071341-1e014ed5-5f1d-4d4f-b475-6f2375e269c0.png)
+
 ![contoh git push](https://user-images.githubusercontent.com/59384629/155071364-b782eecb-dc4d-4c7a-b82d-5c45028448f3.png)
+
 ![contoh git pull, git add, git commit, git push](https://user-images.githubusercontent.com/59384629/155071378-f2817af4-0838-41f5-8ce6-dd4968260cff.png)
+
 ![contoh git stash   git stash apply](https://user-images.githubusercontent.com/59384629/155071387-dcc5422b-b601-445d-859b-c519bea69cea.png)
+
 ![contoh git merge](https://user-images.githubusercontent.com/59384629/155071399-bc562201-b2f4-48e0-92e8-53541c00ac9a.png)
+
 ![contoh conflict](https://user-images.githubusercontent.com/59384629/155071406-baf6ed59-7d4b-4e36-a593-61b53f4fc21c.png)
