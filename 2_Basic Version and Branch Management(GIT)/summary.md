@@ -24,7 +24,6 @@ git checkout berfungsi perintah untuk mengecek kondisi file di setiap commit. Se
 
 ## Task
 ### 1. Membuat Repo di Github
-Pada task ini, membuat jembatan hasil dari pembelajaran proses concurrent yang dilakukan pada Go.
 
 ### 2. Membuat branching, git push, git merge dll
 Berikut hasil dari praktikum ini.
