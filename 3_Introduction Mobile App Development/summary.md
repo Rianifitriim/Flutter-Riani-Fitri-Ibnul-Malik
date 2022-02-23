@@ -1,4 +1,11 @@
 # 3 Introduction Mobile App Development
+
+## Resume
+Dalam materi ini, mempelajari:
+1. Pengertian software
+2. Jenis software
+3. Perkembangan software
+
 ## Software
 Software adalah perangkat lunak yang tersimpan dan dapat dikendalikan pada sistem komputer
 ## Jenis Software
