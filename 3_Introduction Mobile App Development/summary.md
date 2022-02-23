@@ -27,3 +27,7 @@ Interpreter digunakan untuk membaca perintah perintah dalam bahasa pemrograman d
 * Android 
     + Aplikasi yang berjalan pada perangkat android
 
+## Task
+### 1. Menuliskan 5 bahasa pemrograman mobile
+
+### 2. Menuliskan app yang tidak ada di andro tetapi ada di ios dan begitu sebaliknya
