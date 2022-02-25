@@ -1,5 +1,12 @@
 # 5 Basic Dart Programming
 
+## Resume
+Dalam materi ini, mempelajari:
+1. Fungsi main, print dan komentar
+2. Fungsi tipe data, variabel, konstanta, dsb
+3. Fungsi collection, anonymous function, arrow function dsb
+
+
 ## Dart
 Dart adalah bahasa pemrograman yang dibuat oleh google yang berjalan untuk tampilan multi platform seperti pembuatan aplikasi website, desktop,android dan ios
 ## Fungsi main
@@ -30,6 +37,20 @@ Digunakan untuk memberi nilai pada variabel
 Digunakan untuk membandingkan kesetaraan nilai
 ## Logical
 Digunakan untuk menggabungkan beberapa kondisi
+
+# Fungsi lanjutan
+* Anonymous Function
+    + Fungsi yang dibuat tanpa menggunakan nama
+* Arrow Function
+    + Membuat sebuah fungsi secara lebih sederhana dan ringkas
+* Async await
+    + Fungsi untuk menjalankan perintah selanjutnya tanpa menunggu perintah pertama di eksekusi atau dapat menulis asyncronous layaknya proses syncronous
+* Future
+    + Memberi durasi pada fungsi
+ * List
+    + Menyimpan data secara berbaris
+ * Map
+    + Menyimpan data secara key-value
 
 ## Task
 ### 1. Membuat rumus lingkaran
