@@ -37,11 +37,11 @@ Digunakan untuk menggabungkan beberapa kondisi
 
 ## Task
 ### 1. Membuat rumus lingkaran
-Output sebagai berikut
+Output soal 1 sebagai berikut
 
 ![Output soal 1](https://user-images.githubusercontent.com/59384629/155259237-ecae886e-33d4-424e-82bc-dfe1db6bd927.png)
 
 ## 2. Membuat string
-Output sebagai berikut
+Output soal 2 sebagai berikut
 
 ![Output soal 2](https://user-images.githubusercontent.com/59384629/155259307-0c53eb62-f926-48ff-b0ee-17ec9660818a.png)
