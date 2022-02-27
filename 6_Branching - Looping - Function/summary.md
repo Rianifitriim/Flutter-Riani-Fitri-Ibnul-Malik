@@ -23,7 +23,7 @@ Macam - macam jenis perulangan :
 * Perulangan While
     + Perulangan untuk mengulang suatu proses yang belum diketahui jumlahnya. Pengecekan kondisi akan dilakukan terlebih dahulu. Jika kondisi masih bernilai true, maka looping akan terus berlanjut. Statement while juga digunakan untuk menyatakan perulangan.
 * Perulangan Do While
-    + Merupakan modifikasi dari perulangan WHILE, yakni dengan memindahkan posisi pemeriksaan kondisi ke akhir perulangan. Artinya, lakukan dahulu sebuah perulangan, baru periksa apakah kondisi variabel counter sudah terpenuhi atau belum di akhir perulangan
+    + Merupakan modifikasi dari perulangan while, yakni dengan memindahkan posisi pemeriksaan kondisi ke akhir perulangan. Artinya, lakukan dahulu sebuah perulangan, baru periksa apakah kondisi variabel counter sudah terpenuhi atau belum di akhir perulangan
 
 ## Break
 Menghentikan seluruh proses perulangan
@@ -50,6 +50,7 @@ Tipe data memiliki banyak macam sebagai berikut :
 Output soal 1 sebagai berikut
 
 ![soal 1](https://user-images.githubusercontent.com/59384629/155866854-44e98eb3-edff-4419-aab2-4649b17d132c.png)
+
 
 
 ## 2. Membuat faktorial dengan perulangan
