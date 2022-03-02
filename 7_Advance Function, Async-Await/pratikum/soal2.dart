@@ -1,23 +1,16 @@
 void main() async {
   //elemen
-  var Herbivora = [
-    ['kelinci', 'kambing', 'kuda'],
-    ['sapi', 'kedelai', 'kancil']
-  ];
-  var Karnivora = [
-    ['kucing', 'macan', 'beruang'],
-    ['harimau', 'singa', 'buaya']
-  ];
-  var Omnivora = [
-    ['hiu', 'babi', 'rakun'],
-    ['ayam', 'tikus', 'monyet']
+  var herbivora = [
+    ['kelinci', 'jantan'],
+    ['sapi', 'betina']
   ];
 
-  Map<String, List> kumpulanHewan = {
-    'Hewan1': Herbivora,
-    'Hewan2': Karnivora,
-    'Hewan3': Omnivora
-  };
+  var map = {};
 
-  print(kumpulanHewan['Hewan1']?[0]);
+  for (var key in herbivora) {
+    for (var value in key) {
+      map[key[0]] = value;
+    }
+  }
+  print(map);
 }
