@@ -24,4 +24,5 @@ Output soal 1 sebagai berikut
 
 Output soal 2 sebagai berikut
 
-![soal2](https://user-images.githubusercontent.com/59384629/156004228-76902c19-b6ac-4d4f-bfb6-3bb394b47423.png)
+![soal2](https://user-images.githubusercontent.com/59384629/156381457-ddfa9a84-bdca-4ea6-b88e-3d4931c74296.png)
+
