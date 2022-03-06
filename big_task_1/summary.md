@@ -24,7 +24,7 @@ Output soal 3 sebagai berikut
 ![soal3](https://user-images.githubusercontent.com/59384629/156916622-0fe7e79a-be63-453e-b9e4-04229a3a3e6e.png)
 
 
-## 4. Membuat program nilai diagonal
+## 4. Membuat program angka diagonal
 Program ini membuat sebuah inputan nilai lalu semakin banyak nilai maka akan di berikan kondisi spasi dan angka yang terbentuk miring seperti diagonal
 
 Output soal 4 sebagai berikut
