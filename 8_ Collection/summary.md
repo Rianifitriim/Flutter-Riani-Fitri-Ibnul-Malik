@@ -18,9 +18,11 @@
 ### 1. Membuat pengali dengan perulangan
 Output soal 1 sebagai berikut
 
-![Output soal 1](https://user-images.githubusercontent.com/59384629/155259237-ecae886e-33d4-424e-82bc-dfe1db6bd927.png)
+![soal1](https://user-images.githubusercontent.com/59384629/156004129-7a3d0ff5-7253-4bdb-9179-6dd1faea22d3.png)
 
 ## 2. Membuat list dan map
+
 Output soal 2 sebagai berikut
 
-![Output soal 2](https://user-images.githubusercontent.com/59384629/155259307-0c53eb62-f926-48ff-b0ee-17ec9660818a.png)
+![soal2](https://user-images.githubusercontent.com/59384629/156381457-ddfa9a84-bdca-4ea6-b88e-3d4931c74296.png)
+
