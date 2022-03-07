@@ -1,4 +1,4 @@
-# 7 Advance Function, Async-Await
+# 8 Collection
 
 # Fungsi lanjutan
 * Anonymous Function
