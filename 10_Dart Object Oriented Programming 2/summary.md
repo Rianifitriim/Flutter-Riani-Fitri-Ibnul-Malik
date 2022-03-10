@@ -33,11 +33,12 @@ Generic Class adalah salah satu konsep yang memungkinkan class atau interface me
 ### Soal 1 & 2 Membuat class extends dan overide
 Output soal 1 dan 2 sebagai berikut
 
-
+![soal1 2](https://user-images.githubusercontent.com/59384629/157628433-1df3f431-e09e-4af7-8b02-546a4b802dc7.png)
 
 
 
 ## 2. Soal 3 & 4 Membuat class extends dan implements
 Output soal 3 dan 4 sebagai berikut
 
-![soal 2](https://user-images.githubusercontent.com/59384629/155866862-297b63cd-6162-4200-b138-fc71e6af0e39.png)
+![soal3 4](https://user-images.githubusercontent.com/59384629/157628459-70511454-8d76-42f4-a066-fee769724cca.png)
+
