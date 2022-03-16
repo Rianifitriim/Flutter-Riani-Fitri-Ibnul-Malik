@@ -35,7 +35,9 @@ class _MyHomePageState extends State<MyHomePage> {
   int hours = 0;
 
   void detik() async {
-    for (int detik = 1; detik <= 60; detik++) {
+    var detik = 1;
+    while (detik <= 60) {
+      detik++;
       await Future.delayed(const Duration(seconds: 1), () {
         setState(() {
           seconds++;
