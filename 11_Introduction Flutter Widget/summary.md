@@ -21,14 +21,10 @@ Stateless widget merupakan suatu widget yang dimuat secara statis dimana seluruh
 ## Abstract Class
 Widget yang dapat langsung digunakan atau sudah terinstall di flutter
 
-
-## Task
-### Soal 1 & 2 Membuat class extends dan overide
+# Task
+soal 1 membuat statefull widget membuat konten berubah tiap detik
+soal 2 membuat extract widget dapat digunakan kembali tetapi tidak mengubah tampilannya
+### Soal 1 & 2 Membuat statefull widget dan extract widget
 Output soal 1 dan 2 sebagai berikut
 
-![soal1 2](https://user-images.githubusercontent.com/59384629/157628433-1df3f431-e09e-4af7-8b02-546a4b802dc7.png)
-
-
-
-## 2. Soal 3 & 4 Membuat class extends dan implements
-Output soal 3 dan 4 sebagai berikut
+## Task![soal1 soal2](https://user-images.githubusercontent.com/59384629/158552913-249b42e3-1455-40c7-9cbb-335b8050c75c.png)
