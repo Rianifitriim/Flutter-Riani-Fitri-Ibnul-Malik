@@ -1,4 +1,4 @@
-# 10 Dart Object Oriented Programming 2
+# 12_Platform Widget
 
 ## Resume
 Dalam materi ini, mempelajari:
@@ -14,14 +14,15 @@ Cupertino app adalah widget yang digunakan pada sistem ios
 
 
 ## Task
-### Soal 1 & 2 Membuat class extends dan overide
-Output soal 1 dan 2 sebagai berikut
-
-![soal1 2](https://user-images.githubusercontent.com/59384629/157628433-1df3f431-e09e-4af7-8b02-546a4b802dc7.png)
+### Soal 1 membuat clone telegram
+Output soal 1
 
 
+![soal1](https://user-images.githubusercontent.com/59384629/158963955-162e0ef2-3004-4e46-a7ec-8fea39e72fef.png)
 
-## 2. Soal 3 & 4 Membuat class extends dan implements
-Output soal 3 dan 4 sebagai berikut
 
-![soal3 4](https://user-images.githubusercontent.com/59384629/157628459-70511454-8d76-42f4-a066-fee769724cca.png)
+![soal1(2)](https://user-images.githubusercontent.com/59384629/158964011-5afd9745-841e-436a-af7d-7f7b2d419306.png)
+
+## 2. Soal 2 Membuat clone wa
+Output soal 2 
+
