@@ -26,3 +26,4 @@ Output soal 1
 ## 2. Soal 2 Membuat clone wa
 Output soal 2 
 
+![soal2](https://user-images.githubusercontent.com/59384629/159042560-61936fff-64c3-451b-a9db-6f08385ed852.png)
