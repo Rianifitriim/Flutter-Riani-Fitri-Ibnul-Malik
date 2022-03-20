@@ -32,6 +32,8 @@ Important CLI Commands adalah CLI yang sering digunakan di flutter yaitu :
 * Flutter Clean
     + flutter clean untuk menghapus folder build serta file lainnya yang dihasilkan saat kita menjalankan aplikasi di emulator
 
+## Packages Management
+Packages Management adalah untuk mendapatkan package dari web pub.dev dan dapat digunakan langsung tanpa membuat semuanya dari awal atau from scratch
 
 ## Task
 ### Soal 1 menambahkan pada packages depedencies badge
