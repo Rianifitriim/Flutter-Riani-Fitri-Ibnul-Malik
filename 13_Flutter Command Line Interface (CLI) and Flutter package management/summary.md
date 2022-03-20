@@ -37,7 +37,11 @@ Important CLI Commands adalah CLI yang sering digunakan di flutter yaitu :
 ### Soal 1 menambahkan pada packages depedencies badge
 Output soal 1
 
+![soal1](https://user-images.githubusercontent.com/59384629/159148133-576090c8-9244-42bd-aed7-0fcfeaed99e8.png)
+
 
 ## 2. Soal 2 menambahkan pada packages depedencies barcode
 Output soal 2 
+
+![soal2](https://user-images.githubusercontent.com/59384629/159148143-c92cb68f-c35d-4961-9d26-5ca9a0e84f14.png)
 
