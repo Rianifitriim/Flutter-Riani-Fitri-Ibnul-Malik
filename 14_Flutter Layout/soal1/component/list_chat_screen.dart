@@ -27,6 +27,84 @@ class _ListChatScreenState extends State<ListChatScreen> {
       'isiChat': 'asdfghjkl',
       'jam': '13.18',
       'inisial': 'R',
+    },
+    {
+      'nama': 'riri',
+      'isiChat': 'qwerty',
+      'jam': '15.10',
+      'inisial': 'R',
+    },
+    {
+      'nama': 'riani',
+      'isiChat': 'asdfghjkl',
+      'jam': '13.18',
+      'inisial': 'R',
+    },
+    {
+      'nama': 'ani',
+      'isiChat': 'asdfghjkl',
+      'jam': '13.18',
+      'inisial': 'A',
+    },
+    {
+      'nama': 'ria',
+      'isiChat': 'asdfghjkl',
+      'jam': '13.18',
+      'inisial': 'R',
+    },
+    {
+      'nama': 'riri',
+      'isiChat': 'qwerty',
+      'jam': '15.10',
+      'inisial': 'R',
+    },
+    {
+      'nama': 'riani',
+      'isiChat': 'asdfghjkl',
+      'jam': '13.18',
+      'inisial': 'R',
+    },
+    {
+      'nama': 'ani',
+      'isiChat': 'asdfghjkl',
+      'jam': '13.18',
+      'inisial': 'A',
+    },
+    {
+      'nama': 'ria',
+      'isiChat': 'asdfghjkl',
+      'jam': '13.18',
+      'inisial': 'R',
+    },
+    {
+      'nama': 'riri',
+      'isiChat': 'qwerty',
+      'jam': '15.10',
+      'inisial': 'R',
+    },
+    {
+      'nama': 'ria',
+      'isiChat': 'asdfghjkl',
+      'jam': '13.18',
+      'inisial': 'R',
+    },
+    {
+      'nama': 'riri',
+      'isiChat': 'qwerty',
+      'jam': '15.10',
+      'inisial': 'R',
+    },
+    {
+      'nama': 'ria',
+      'isiChat': 'asdfghjkl',
+      'jam': '13.18',
+      'inisial': 'R',
+    },
+    {
+      'nama': 'riri',
+      'isiChat': 'qwerty',
+      'jam': '15.10',
+      'inisial': 'R',
     }
   ];
   @override
