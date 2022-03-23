@@ -41,6 +41,25 @@ class _HomepageState extends State<Homepage> {
     Icons.wifi_lock,
     Icons.mail,
     Icons.g_translate,
+    Icons.sailing_outlined,
+    Icons.nat,
+    Icons.face,
+    Icons.kayaking,
+    Icons.access_time_filled_rounded,
+    Icons.baby_changing_station,
+    Icons.cabin,
+    Icons.landscape,
+    Icons.qr_code,
+    Icons.tab_unselected_rounded,
+    Icons.pages,
+    Icons.wallet_giftcard_outlined,
+    Icons.vaccines,
+    Icons.u_turn_left,
+    Icons.offline_bolt,
+    Icons.cable_sharp,
+    Icons.reset_tv_sharp,
+    Icons.dangerous,
+    Icons.gamepad_outlined
   ];
   @override
   Widget build(BuildContext context) {
