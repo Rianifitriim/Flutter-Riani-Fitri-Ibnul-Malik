@@ -52,9 +52,11 @@ beberapa basic layouting sebagai berikut :
 ### Soal 1 membuat listview
 Output soal 1
 
+![soal1](https://user-images.githubusercontent.com/59384629/159615554-3893ef3e-4751-4847-ae4f-b6be52c906d7.png)
 
 
 
 ### 2. Soal 2 membuat gridview
 Output soal 2 
 
+![soal2](https://user-images.githubusercontent.com/59384629/159615575-83e78f59-441d-4d5e-85e5-ae3a31695850.png)
