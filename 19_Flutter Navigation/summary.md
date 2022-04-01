@@ -22,10 +22,12 @@ Navigation named routes setiap halaman memiliki nama masing-masing atau alamat
 ### Soal 1 membuat page contact dan new contact
 Output soal 1
 
-![soal1](https://user-images.githubusercontent.com/59384629/160361428-e4b5408b-0c82-4cd8-9cf1-def767ff9cd6.png)
+
+![soal1](https://user-images.githubusercontent.com/59384629/161215653-eb09c818-3f39-4c65-a87e-530f257d9bad.png)
 
 
 ### 2. Soal 2 membuat navigation tanpa named routes
 Output soal 2 
 
-![soal2](https://user-images.githubusercontent.com/59384629/160361462-76394e24-3d14-47a7-bbf9-a19aae3070d4.png)
+
+![soal2](https://user-images.githubusercontent.com/59384629/161215660-fcd75ef1-02d0-4f15-a24c-b421c009e79d.png)
