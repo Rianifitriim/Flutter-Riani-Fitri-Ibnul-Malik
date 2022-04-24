@@ -26,3 +26,10 @@ Dalam materi ini, mempelajari:
 
 ## Task
 
+### Soal 1 menerapkan MVVM
+
+![Screenshot 2022-04-24 at 23 08 23](https://user-images.githubusercontent.com/59384629/164987595-68f16b55-967d-4c04-852d-53f41e398e44.png)
+
+### Soal 2 menambahkan page dan menerapkan MVVM
+
+![Screenshot 2022-04-24 at 23 08 02](https://user-images.githubusercontent.com/59384629/164987612-4a58eb62-95ce-423d-ac5c-70412015f68d.png)
