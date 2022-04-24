@@ -32,7 +32,6 @@ Cara penggunaan finite state sebagai berikut :
 - Proses yang terkait dengan sistem eksternal dapat mempengaruhi berjalannya pengujian
 - Pengaruh tersebut dapat mengganggu proses pengujian
 - Dilakukan mocking untuk menghindari masalah-masalah tersebut
-![before mock](https://user-images.githubusercontent.com/59384629/164983281-4d66c4bd-a31f-43e8-880a-a67be0244a99.png)
 
 
 ## Task
