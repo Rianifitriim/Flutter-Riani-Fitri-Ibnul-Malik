@@ -14,3 +14,4 @@ Dalam materi ini, mempelajari:
 
 ## Task
 
+![soal1](https://user-images.githubusercontent.com/59384629/165564658-6bd4e3ef-dbd9-4751-9c8d-fc40868a2a70.png)
